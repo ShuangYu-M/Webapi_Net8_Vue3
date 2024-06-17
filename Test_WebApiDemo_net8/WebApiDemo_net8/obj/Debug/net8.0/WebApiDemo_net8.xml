@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiDemo_net8</name>
+    </assembly>
+    <members>
+        <member name="F:WebApiDemo_net8.Controllers.SecondController._ILogger">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:WebApiDemo_net8.Controllers.SecondController._ILoggerFactory">
+            <summary>
+            工厂
+            </summary>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.SecondController.#ctor(Microsoft.Extensions.Logging.ILogger{WebApiDemo_net8.Controllers.SecondController},Microsoft.Extensions.Logging.ILoggerFactory)">
+            <summary>
+            执行构造函数——自动创建出构造函数的参数——传递过来
+            依赖注入——构造函数注入
+            
+            </summary>
+            <param name="iLogger"></param>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.SecondController.Index">
+            <summary>
+            控制器
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:WebApiDemo_net8.Controllers.v1Controller">
+            <summary>
+            RESTFul：把这个控制器为维度，当成一块资源：
+            对于这个资源，会提增删改查等等各种动作：这些动作都有唯一的URL地址：匹配请求的Method类型（get、post、put、delete）
+            [EnableCors("any")]：中间件，解决浏览器跨域问题
+            Route：特性路由
+            </summary>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.v1Controller.GetAuthCode">
+            <summary>
+            HttpPost 获取验证码
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.v1Controller.PostLoggin(WebApiDemo_net8.req.LoginRequestData)">
+            <summary>
+            HttpPost 获取登录状态
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:WebApiDemo_net8.Controllers.v2Controller">
+            <summary>
+            RESTFul：把这个控制器为维度，当成一块资源：
+            对于这个资源，会提增删改查等等各种动作：这些动作都有唯一的URL地址：匹配请求的Method类型（get、post、put、delete）
+            </summary>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.v2Controller.Get">
+            <summary>
+            HttpGet
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.v2Controller.GetUser">
+            <summary>
+            HttpGetUser
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.v2Controller.Post">
+            <summary>
+            HttpPost
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.v2Controller.Put">
+            <summary>
+            HttpPut
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiDemo_net8.Controllers.v2Controller.Delete">
+            <summary>
+            HttpDelete
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:WebApiDemo_net8.rep.loginCode">
+            <summary>
+            验证码
+            </summary>
+        </member>
+        <member name="T:WebApiDemo_net8.rep.userLogin">
+            <summary>
+            登陆返回
+            </summary>
+        </member>
+    </members>
+</doc>

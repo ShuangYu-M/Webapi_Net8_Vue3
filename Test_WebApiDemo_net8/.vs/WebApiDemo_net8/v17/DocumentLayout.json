@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|d:\\webapi\\webapidemo_net8\\webapidemo_net8\\webapidemo_net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|solutionrelative:webapidemo_net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|d:\\webapi\\webapidemo_net8\\webapidemo_net8\\webapidemo_net8\\req\\loginrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|solutionrelative:webapidemo_net8\\req\\loginrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|d:\\webapi\\webapidemo_net8\\webapidemo_net8\\webapidemo_net8\\rep\\getloginstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|solutionrelative:webapidemo_net8\\rep\\getloginstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|d:\\webapi\\webapidemo_net8\\webapidemo_net8\\webapidemo_net8\\controllers\\v1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|solutionrelative:webapidemo_net8\\controllers\\v1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|d:\\webapi\\webapidemo_net8\\webapidemo_net8\\webapidemo_net8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|solutionrelative:webapidemo_net8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38A4BE3-A094-4A6D-8C56-68C0BA38E750}|WebApiDemo_net8.WebCore\\WebApiDemo_net8.WebCore.csproj|d:\\webapi\\webapidemo_net8\\webapidemo_net8\\webapidemo_net8.webcore\\swaggerext\\apiversioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38A4BE3-A094-4A6D-8C56-68C0BA38E750}|WebApiDemo_net8.WebCore\\WebApiDemo_net8.WebCore.csproj|solutionrelative:webapidemo_net8.webcore\\swaggerext\\apiversioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|d:\\webapi\\webapidemo_net8\\webapidemo_net8\\webapidemo_net8\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D49746-5E33-483C-9F4C-CE0207AE958A}|WebApiDemo_net8\\WebApiDemo_net8.csproj|solutionrelative:webapidemo_net8\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiDemo_net8\\Program.cs",
+              "ToolTip": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\Program.cs",
+              "RelativeToolTip": "WebApiDemo_net8\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAswF4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:22:55.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiDemo_net8\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiDemo_net8\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T14:43:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequestData.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\req\\LoginRequestData.cs",
+              "RelativeDocumentMoniker": "WebApiDemo_net8\\req\\LoginRequestData.cs",
+              "ToolTip": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\req\\LoginRequestData.cs",
+              "RelativeToolTip": "WebApiDemo_net8\\req\\LoginRequestData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:17:10.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetLoginStatus.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\rep\\GetLoginStatus.cs",
+              "RelativeDocumentMoniker": "WebApiDemo_net8\\rep\\GetLoginStatus.cs",
+              "ToolTip": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\rep\\GetLoginStatus.cs",
+              "RelativeToolTip": "WebApiDemo_net8\\rep\\GetLoginStatus.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAWwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:43:07.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "v1Controller.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\Controllers\\v1Controller.cs",
+              "RelativeDocumentMoniker": "WebApiDemo_net8\\Controllers\\v1Controller.cs",
+              "ToolTip": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\Controllers\\v1Controller.cs",
+              "RelativeToolTip": "WebApiDemo_net8\\Controllers\\v1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:08:41.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecondController.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\Controllers\\SecondController.cs",
+              "RelativeDocumentMoniker": "WebApiDemo_net8\\Controllers\\SecondController.cs",
+              "ToolTip": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\Controllers\\SecondController.cs",
+              "RelativeToolTip": "WebApiDemo_net8\\Controllers\\SecondController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:05:46.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiVersionInfo.cs",
+              "DocumentMoniker": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8.WebCore\\SwaggerExt\\ApiVersionInfo.cs",
+              "RelativeDocumentMoniker": "WebApiDemo_net8.WebCore\\SwaggerExt\\ApiVersionInfo.cs",
+              "ToolTip": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8.WebCore\\SwaggerExt\\ApiVersionInfo.cs",
+              "RelativeToolTip": "WebApiDemo_net8.WebCore\\SwaggerExt\\ApiVersionInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:48:59.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

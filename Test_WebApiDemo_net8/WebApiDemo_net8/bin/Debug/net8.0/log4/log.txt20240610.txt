@@ -1,0 +1,25 @@
+﻿2024-06-10 22:04:48,741 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-10 22:04:48,746 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-10 22:04:48,748 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-10 22:04:48,749 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-10 22:04:48,749 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-10 22:11:41,603 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-10 22:11:41,609 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-10 22:11:41,610 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-10 22:11:41,611 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-10 22:11:47,900 [.NET TP Worker] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2024-06-10 22:25:08,552 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-10 22:25:08,557 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-10 22:25:08,559 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-10 22:25:08,560 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-10 22:25:08,561 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-10 22:28:16,962 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-10 22:28:16,966 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-10 22:28:16,968 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-10 22:28:16,969 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-10 22:28:16,970 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-10 22:32:04,840 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-10 22:32:04,845 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-10 22:32:04,847 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-10 22:32:04,848 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-10 22:32:04,849 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8

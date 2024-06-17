@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html lang="zh-cn" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <!--<script src="vueTest.js"></script>-->
+</head>
+<body id="app">
+    <div>{{message}}
+        <button @click="onGetValue" >按钮</button>
+    </div>
+
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+        const { createApp, ref } = Vue;
+
+        createApp({
+            setup() {
+                const message = ref('Hello vue!')
+                const onGetValue = () => {
+                    //axios.get("http://localhost:5264/TestV1")
+                    //    .then(res => {
+                    //        console.log(res);
+                    //        console.log(res.data);
+                    //        message.value = res.data;
+                    //    });
+                    axios.post("https://localhost:7198/TestV1")
+                        .then(res => {
+                            console.log(res);
+                            console.log(res.data);
+                            message.value = res.data;
+                        });
+                }
+                return {
+                    message,
+                    onGetValue
+                }
+            }
+        }).mount('#app');
+
+    </script>
+</body>
+</html>

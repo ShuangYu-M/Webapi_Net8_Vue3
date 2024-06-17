@@ -1,0 +1,12 @@
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\bin\Debug\net8.0\WebApiDemo_net8.WebCore.deps.json
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\bin\Debug\net8.0\WebApiDemo_net8.WebCore.dll
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\bin\Debug\net8.0\WebApiDemo_net8.WebCore.pdb
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\WebApiDemo_net8.WebCore.csproj.AssemblyReference.cache
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\WebApiDemo_net8.WebCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\WebApiDemo_net8.WebCore.AssemblyInfoInputs.cache
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\WebApiDemo_net8.WebCore.AssemblyInfo.cs
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\WebApiDemo_net8.WebCore.csproj.CoreCompileInputs.cache
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\WebApiDemo_net8.WebCore.dll
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\refint\WebApiDemo_net8.WebCore.dll
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\WebApiDemo_net8.WebCore.pdb
+D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8.WebCore\obj\Debug\net8.0\ref\WebApiDemo_net8.WebCore.dll

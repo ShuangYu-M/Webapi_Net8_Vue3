@@ -1,0 +1,133 @@
+﻿2024-06-16 15:12:48,514 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 15:12:48,518 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 15:12:48,521 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 15:12:48,521 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 15:12:48,522 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 15:16:51,294 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 15:16:51,298 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 15:16:51,301 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 15:16:51,302 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 15:16:51,303 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 15:16:52,223 [.NET TP Worker] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST TestV1" for actions - WebApiDemo_net8.Controllers.TestV1Controller.PostAuthCode (WebApiDemo_net8),WebApiDemo_net8.Controllers.TestV1Controller.PostLoggin (WebApiDemo_net8). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-16 15:18:02,191 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 15:18:02,195 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 15:18:02,198 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 15:18:02,199 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 15:18:02,199 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 15:18:03,007 [.NET TP Worker] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST TestV1" for actions - WebApiDemo_net8.Controllers.TestV1Controller.PostAuthCode (WebApiDemo_net8),WebApiDemo_net8.Controllers.TestV1Controller.PostLoggin (WebApiDemo_net8). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-16 15:18:13,511 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 15:18:13,516 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 15:18:13,519 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 15:18:13,520 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 15:18:13,521 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 15:20:14,672 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 15:20:14,677 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 15:20:14,680 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 15:20:14,681 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 15:20:14,682 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 15:23:52,717 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 15:23:52,721 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 15:23:52,724 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 15:23:52,725 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 15:23:52,726 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 15:23:53,000 [.NET TP Worker] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The constraint reference 'string,passwored' could not be resolved to a type. Register the constraint type with 'Microsoft.AspNetCore.Routing.RouteOptions.ConstraintMap'.
+   at Microsoft.AspNetCore.Routing.DefaultParameterPolicyFactory.Create(RoutePatternParameterPart parameter, String inlineText)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CachingParameterPolicyFactory.Create(RoutePatternParameterPart parameter, String inlineText)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidate(Endpoint endpoint, Int32 score)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidates(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.Build()
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.CreateMatcher(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.DataSourceDependentCache`1.Initialize()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher..ctor(EndpointDataSource dataSource, Lifetime lifetime, Func`1 matcherBuilderFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherFactory.CreateMatcher(EndpointDataSource dataSource)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.InitializeCoreAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>g__AwaitMatcher|10_0(EndpointRoutingMiddleware middleware, HttpContext httpContext, Task`1 matcherTask)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-16 15:23:53,097 [.NET TP Worker] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The constraint reference 'string,passwored' could not be resolved to a type. Register the constraint type with 'Microsoft.AspNetCore.Routing.RouteOptions.ConstraintMap'.
+   at Microsoft.AspNetCore.Routing.DefaultParameterPolicyFactory.Create(RoutePatternParameterPart parameter, String inlineText)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CachingParameterPolicyFactory.Create(RoutePatternParameterPart parameter, String inlineText)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidate(Endpoint endpoint, Int32 score)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.CreateCandidates(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.AddNode(DfaNode node, DfaState[] states, Int32 exitDestination)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherBuilder.Build()
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.CreateMatcher(IReadOnlyList`1 endpoints)
+   at Microsoft.AspNetCore.Routing.DataSourceDependentCache`1.Initialize()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher..ctor(EndpointDataSource dataSource, Lifetime lifetime, Func`1 matcherBuilderFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherFactory.CreateMatcher(EndpointDataSource dataSource)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.InitializeCoreAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>g__AwaitMatcher|10_0(EndpointRoutingMiddleware middleware, HttpContext httpContext, Task`1 matcherTask)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-06-16 15:41:40,241 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 15:41:40,245 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 15:41:40,248 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 15:41:40,250 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 15:41:40,251 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 15:45:29,831 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 15:45:29,836 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 15:45:29,839 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 15:45:29,840 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 15:45:29,841 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 16:27:55,622 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 16:27:55,626 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 16:27:55,629 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 16:27:55,629 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 16:27:55,630 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 16:29:26,658 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 16:29:26,663 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 16:29:26,665 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 16:29:26,666 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 16:29:26,667 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 16:30:16,062 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 16:30:16,067 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 16:30:16,070 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 16:30:16,071 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 16:30:16,072 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 21:56:20,562 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 21:56:20,566 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 21:56:20,568 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 21:56:20,569 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 21:56:20,570 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 22:22:07,509 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7198
+2024-06-16 22:22:07,513 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 22:22:07,516 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 22:22:07,517 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 22:22:07,517 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 22:43:55,023 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 22:43:55,028 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 22:43:55,029 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 22:43:55,030 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 22:43:59,539 [.NET TP Worker] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2024-06-16 22:50:30,523 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-16 22:50:30,528 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-16 22:50:30,528 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-16 22:50:30,529 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
+2024-06-16 22:50:37,015 [.NET TP Worker] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
