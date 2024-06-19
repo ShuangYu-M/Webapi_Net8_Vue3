@@ -38,34 +38,34 @@ namespace WebApiDemo_net8.WebCore.SwaggerExt
                 #endregion
 
                 #region 支持token传值
-                {
-                    option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
-                    {
-                        Description = "请输入token，格式为 Bearer xxxxxx （注意中间必须有空格）",
-                        Name = "Authorization",
-                        In = ParameterLocation.Header,
-                        Type = SecuritySchemeType.ApiKey,
-                        BearerFormat = "JWT",
-                        Scheme = "Bearer"
+                //{
+                //    option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
+                //    {
+                //        Description = "请输入token，格式为 Bearer xxxxxx （注意中间必须有空格）",
+                //        Name = "Authorization",
+                //        In = ParameterLocation.Header,
+                //        Type = SecuritySchemeType.ApiKey,
+                //        BearerFormat = "JWT",
+                //        Scheme = "Bearer"
 
-                    });
+                //    });
 
-                    //添加安全要求
-                    option.AddSecurityRequirement(new OpenApiSecurityRequirement
-                    {
-                        {
-                            new OpenApiSecurityScheme
-                            {
-                                Reference=new OpenApiReference()
-                                {
-                                    Type=ReferenceType.SecurityScheme,
-                                    Id="Bearer"
-                                }
-                            },
-                            new string[]{}
-                        }
-                    });
-                }
+                //    //添加安全要求
+                //    option.AddSecurityRequirement(new OpenApiSecurityRequirement
+                //    {
+                //        {
+                //            new OpenApiSecurityScheme
+                //            {
+                //                Reference=new OpenApiReference()
+                //                {
+                //                    Type=ReferenceType.SecurityScheme,
+                //                    Id="Bearer"
+                //                }
+                //            },
+                //            new string[]{}
+                //        }
+                //    });
+                //}
 
                 #endregion
 

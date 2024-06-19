@@ -16,6 +16,7 @@ namespace WebApiDemo_net8
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
+
             //Cors£ºÖÐ¼ä¼þ
             builder.Services.AddCors(options =>
             {
@@ -32,6 +33,7 @@ namespace WebApiDemo_net8
             //Microsoft.Extensions.Logging.Log4Net.AspNetCore
             builder.Logging.AddLog4Net("ConfigFile/log4net.Config");
 
+            #region MyRegion
 
             //builder.Services.AddEndpointsApiExplorer();
             //builder.Services.AddSwaggerGen(option =>
@@ -91,6 +93,7 @@ namespace WebApiDemo_net8
 
 
             //});
+            #endregion
 
             var app = builder.Build();
 

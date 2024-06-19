@@ -1,10 +1,4 @@
-﻿2024-06-17 20:23:47,081 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
-2024-06-17 20:23:47,086 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
-2024-06-17 20:23:47,087 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
-2024-06-17 20:23:47,087 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
-2024-06-17 20:25:02,593 [.NET TP Worker] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
-2024-06-17 20:31:46,837 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
-2024-06-17 20:31:46,843 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
-2024-06-17 20:31:46,845 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
-2024-06-17 20:31:46,846 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\WebApi\WebApiDemo_net8\WebApiDemo_net8\WebApiDemo_net8
-2024-06-17 20:31:50,727 [.NET TP Worker] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+﻿2024-06-19 11:28:08,291 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5264
+2024-06-19 11:28:08,303 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2024-06-19 11:28:08,305 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2024-06-19 11:28:08,308 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Webapi_Net8_Vue3\Test_WebApiDemo_net8\WebApiDemo_net8

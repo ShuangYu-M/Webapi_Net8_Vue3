@@ -1758,19 +1758,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BIN_AMD\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8.csproj",
+      "projectUniqueName": "D:\\Webapi_Net8_Vue3\\Test_WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8.csproj",
       "projectName": "WebApiDemo_net8",
-      "projectPath": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8.csproj",
-      "packagesPath": "C:\\Users\\BIN_AMD\\.nuget\\packages\\",
-      "outputPath": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8\\obj\\",
+      "projectPath": "D:\\Webapi_Net8_Vue3\\Test_WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Webapi_Net8_Vue3\\Test_WebApiDemo_net8\\WebApiDemo_net8\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\BIN_AMD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1785,8 +1790,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8.WebCore\\WebApiDemo_net8.WebCore.csproj": {
-              "projectPath": "D:\\WebApi\\WebApiDemo_net8\\WebApiDemo_net8\\WebApiDemo_net8.WebCore\\WebApiDemo_net8.WebCore.csproj"
+            "D:\\Webapi_Net8_Vue3\\Test_WebApiDemo_net8\\WebApiDemo_net8.WebCore\\WebApiDemo_net8.WebCore.csproj": {
+              "projectPath": "D:\\Webapi_Net8_Vue3\\Test_WebApiDemo_net8\\WebApiDemo_net8.WebCore\\WebApiDemo_net8.WebCore.csproj"
             }
           }
         }
@@ -1846,7 +1851,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
