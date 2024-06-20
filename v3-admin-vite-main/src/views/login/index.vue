@@ -64,6 +64,7 @@ const createCode = () => {
   // 获取验证码
   codeUrl.value = ""
   getLoginCodeApi().then((res) => {
+    console.log(res)
     codeUrl.value = res.data
   })
 }

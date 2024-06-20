@@ -58,6 +58,12 @@ async function fetchStudents() {
   console.log(response);
   console.log(response.data.message);
   students.value=response.data.data;
+
+  const loginCode = await request.get("v2/loginCode");
+  console.log(loginCode);
+  console.log(loginCode.data.message);
+
+
   //reactive需要用这种写法把原本的对象给替换掉
 //   Object.assign(students, response.data.data);
 }

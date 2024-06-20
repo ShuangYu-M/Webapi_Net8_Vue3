@@ -1,0 +1,5 @@
+# C# :
+*.vsidx
+/Test_WebApiDemo_net8/.vs/*
+/WebApi_Net8/obj/*
+*.vs
