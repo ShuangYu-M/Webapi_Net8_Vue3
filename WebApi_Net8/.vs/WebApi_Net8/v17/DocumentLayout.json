@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{0443EBE6-2FF5-4F4E-B084-83C4526072DF}|webApi_Net8.csproj|solutionrelative:controllers\\v2controller\\v2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0443EBE6-2FF5-4F4E-B084-83C4526072DF}|webApi_Net8.csproj|d:\\webapi_net8_vue3\\webapi_net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0443EBE6-2FF5-4F4E-B084-83C4526072DF}|webApi_Net8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0443EBE6-2FF5-4F4E-B084-83C4526072DF}|webApi_Net8.csproj|d:\\webapi_net8_vue3\\webapi_net8\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0443EBE6-2FF5-4F4E-B084-83C4526072DF}|webApi_Net8.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0443EBE6-2FF5-4F4E-B084-83C4526072DF}|webApi_Net8.csproj|d:\\webapi_net8_vue3\\webapi_net8\\request\\teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443EBE6-2FF5-4F4E-B084-83C4526072DF}|webApi_Net8.csproj|solutionrelative:request\\teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Webapi_Net8_Vue3\\WebApi_Net8\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Webapi_Net8_Vue3\\WebApi_Net8\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAQwAoAAAAIAAAA",
+              "Title": "testStudent.cs",
+              "DocumentMoniker": "D:\\Webapi_Net8_Vue3\\WebApi_Net8\\request\\testStudent.cs",
+              "RelativeDocumentMoniker": "request\\testStudent.cs",
+              "ToolTip": "D:\\Webapi_Net8_Vue3\\WebApi_Net8\\request\\testStudent.cs",
+              "RelativeToolTip": "request\\testStudent.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAIAzwDcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T03:02:34.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Webapi_Net8_Vue3\\WebApi_Net8\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "D:\\Webapi_Net8_Vue3\\WebApi_Net8\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswAgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T10:58:12.078Z"
+              "WhenOpened": "2024-06-22T04:07:21.832Z"
             },
             {
               "$type": "Document",
@@ -57,7 +40,7 @@
               "RelativeDocumentMoniker": "Controllers\\v2Controller\\v2Controller.cs",
               "ToolTip": "D:\\Webapi_Net8_Vue3\\WebApi_Net8\\Controllers\\v2Controller\\v2Controller.cs",
               "RelativeToolTip": "Controllers\\v2Controller\\v2Controller.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBgAAAAbAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAD4v3YAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T07:54:39.803Z",
               "EditorCaption": ""

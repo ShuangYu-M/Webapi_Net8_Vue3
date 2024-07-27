@@ -34,7 +34,7 @@ export default ({ mode }: ConfigEnv): UserConfigExport => {
       strictPort: false,
       /** 接口代理 */
       proxy: {
-        "/api": {
+        "/api/v1": {
           // "/api/v1": {
           // target: "https://mock.mengxuegu.com/mock/63218b5fb4c53348ed2bc212",
           target: "http://127.0.0.1:5050",

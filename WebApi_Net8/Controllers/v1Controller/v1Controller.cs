@@ -22,7 +22,7 @@ namespace webApi_Net8.Controllers.v1Controller
                 List<testStudent> list_student = new List<testStudent>();
                 string sql = "select * from Luoxianhua";
 
-                list_student = SqlHelper.ExecuteQuery<testStudent>(sql);
+                list_student = SqlHelper.Query<testStudent>(sql);
 
                 return new REP_response<List<testStudent>>()
                 {

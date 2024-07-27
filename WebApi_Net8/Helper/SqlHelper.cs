@@ -29,7 +29,7 @@ namespace webApi_Net8.Helper
         }
 
         // 用于执行查询
-        public static DataTable ExecuteQuery(string query)
+        public static DataTable Query(string query)
         {
             using (SqlConnection connection = GetConnection())
             {
@@ -48,9 +48,9 @@ namespace webApi_Net8.Helper
         /// <typeparam name="T"></typeparam>
         /// <param name="table"></param>
         /// <returns></returns>
-        public static List<T> ExecuteQuery<T>(string sql)
+        public static List<T> Query<T>(string sql)
         {
-            DataTable dt = ExecuteQuery(sql);
+            DataTable dt = Query(sql);
             List<T> data = new List<T>();
             foreach (DataRow row in dt.Rows)
             {
